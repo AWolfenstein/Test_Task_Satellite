@@ -1,0 +1,15 @@
+.borderT{
+    border:1px solid black;
+    
+}
+.headTable{
+    background-color: rgb(166, 202, 231);
+}
+
+.contentBlock{
+    height: 500px;
+}
+.fullscreen {
+    width: 100vw;
+    height: 100vh;
+  }
